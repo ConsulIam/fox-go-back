@@ -1,0 +1,45 @@
+cookie:
+  expiry_days: 30
+  key: random_signature_key
+  name: random_cookie_name
+credentials:
+  usernames:
+    fabio:
+      email: fabio@teste.com
+      failed_login_attempts: 0
+      identification: 123
+      logged_in: false
+      name: "F\xC3\xA1bio"
+      password: $2b$12$1ZH5FHcGQt9wu743LNammOCbWYgPIxSAZ.nQKDmwAdErEKGrI.jh.
+      role: 0
+      user_status: 0
+    ivan:
+      email: ivan@teste.com
+      failed_login_attempts: 0
+      identification: 22.333.333/4444-22
+      logged_in: false
+      name: "Iv\xE1n"
+      password: $2b$12$lAWLeTdwTkXA7jyJvffoh.Mum9tIlUxkvA8h2rR1.ZiB.iLHiB5UK
+      role: 0
+      user_status: "Demostra\xE7\xE3o"
+    juanca:
+      email: juanca@teste.com
+      failed_login_attempts: 0
+      identification: 22.333.333/4444-22
+      logged_in: false
+      name: JuanCa
+      password: $2b$12$DTT4KHMSw0nBl1ORXGMgQegRdVqKxqS9Jng.0c.T0nYCtlXgubWW6
+      role: 2
+      user_status: "Demostra\xE7\xE3o"
+    teste:
+      email: teste@teste.com
+      failed_login_attempts: 0
+      identification: 22.333.333/4444-22
+      logged_in: false
+      name: Teste Elegante
+      password: $2b$12$gWy54znYmwtXmHztqUF4RubBn9CEuHBnKidrumMqyGn4nROxwFed2
+      role: 1
+      user_status: "Demostra\xE7\xE3o"
+pre-authorized:
+  emails:
+    - consul@foxgoback.com

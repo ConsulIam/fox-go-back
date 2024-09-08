@@ -1,0 +1,14 @@
+customers:
+  usernames:
+    fabio:
+      email: fabio@foxgoback.com
+      failed_login_attempts: 0
+      identification: 123
+      logged_in: false
+      name: "F\xC3\xA1bio"
+      password: $2b$12$1ZH5FHcGQt9wu743LNammOCbWYgPIxSAZ.nQKDmwAdErEKGrI.jh.
+      role: 1
+      user_status: 0
+# Pensnado en que un estabelecimento (company), puede tener varios clientes
+# del cliente solo necesito número de teléfono, whatsapp, cupoones y cupones de descuento
+# valor que representa el cupón de descuento.
