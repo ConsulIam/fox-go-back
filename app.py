@@ -24,7 +24,7 @@ st.set_page_config(
 )
 
 # Loading config file
-with open(".streamlit/users.yaml") as file:
+with open(".streamlit/detal.yaml") as file:
     config = yaml.load(file, Loader=SafeLoader)
 
 # Create the authenticator object

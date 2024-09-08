@@ -4,7 +4,7 @@ import yaml
 import re
 from utils.password_utils import pass_hash
 
-CONFIG_PATH = '.streamlit/users.yaml'
+CONFIG_PATH = '.streamlit/detal.yaml'
 def load_config():
     if os.path.exists(CONFIG_PATH):
         with open(CONFIG_PATH, 'r') as file:
